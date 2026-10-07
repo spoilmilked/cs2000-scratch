@@ -15,4 +15,3 @@ high-value-orders = table: time :: String, amount :: Number
 end
 
 
-c
